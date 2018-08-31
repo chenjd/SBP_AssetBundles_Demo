@@ -173,7 +173,7 @@ public class TestBuildWindow : EditorWindow
             addressableNames = new string[] {"cube_Test" },
             assetBundleName = "bundle",
             assetBundleVariant = "",
-            assetNames = new string[] { "Assets/Cube_L.prefab" },
+            assetNames = new string[] { "Assets/atlas.spriteatlas" },
 
         };
 		buildDataList.Add(data);

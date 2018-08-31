@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1498384750
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ab_1
+      Dependencies: {}
+    Info_1:
+      Name: ab_2
+      Dependencies: {}
+    Info_2:
+      Name: atlas_ab
+      Dependencies: {}
